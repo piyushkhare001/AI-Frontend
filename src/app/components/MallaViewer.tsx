@@ -7,7 +7,7 @@ import { motion, useMotionValue, useTransform , animate} from 'framer-motion';
 import mallaTelling from '../../../public/malla-360/malla-telling.gif';
 
 const GOOGLE_TRANSLATE_API_KEY = 'AIzaSyDkV7a7gzy4kHw2jR01_mYnH-dvwKgaFxg';
-const API_ENDPOINT = 'https://7f66-2401-4900-889b-227c-d100-71e1-2087-1c5b.ngrok-free.app/ask';
+const API_ENDPOINT = 'https://45ae-183-83-53-125.ngrok-free.app/ask';
 const ELEVENLABS_VOICE_ID = 'HRfQ3Nt65DnCOZWLdMGo';
 const ELEVENLABS_API_KEY  = 'sk_129ed5ef6086cf235a30e83d966a9e83df43d3659b5e0add';
 
